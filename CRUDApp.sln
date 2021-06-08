@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDApp", "CRUDApp\CRUDApp.csproj", "{23B8348D-7450-4A68-A20B-6F43BE95E7E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDApp.Tests", "CRUDApp.Tests\CRUDApp.Tests.csproj", "{BACBD35A-8573-433C-AC83-6B6B54D62B34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23B8348D-7450-4A68-A20B-6F43BE95E7E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B8348D-7450-4A68-A20B-6F43BE95E7E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B8348D-7450-4A68-A20B-6F43BE95E7E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B8348D-7450-4A68-A20B-6F43BE95E7E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BACBD35A-8573-433C-AC83-6B6B54D62B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACBD35A-8573-433C-AC83-6B6B54D62B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACBD35A-8573-433C-AC83-6B6B54D62B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACBD35A-8573-433C-AC83-6B6B54D62B34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68D1DCCE-9E73-41D2-BF49-98F52309DFBA}
+	EndGlobalSection
+EndGlobal
